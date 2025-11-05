@@ -1,30 +1,43 @@
-# Project: "TOWER  TACTICS" (Tower Defense)
+# Project 2: UFO Lander (Physics Game)
 
-<img width="1920" height="1080" alt="tower-tactics jpg" src="https://github.com/user-attachments/assets/07243264-d5b8-4836-950f-063abc518848" />
+A 3D physics-based game built in Unity where the player must carefully pilot a UFO to a safe landing on challenging landing pads.
 
-## 📖 About This Project
+---
 
-This is a 3D Tower Defense game built in Unity. The player must strategically place and upgrade cannons to stop waves of enemies from reaching their castle. 
-
----        
-        ### Click to Watch Gameplay
-
-[![Watch the Gameplay Video](https://img.youtube.com/vi/cLmZDSu1DWI/maxresdefault.jpg)](https://www.youtube.com/watch?v=cLmZDSu1DWI)            
+<img width="2816" height="1536" alt="UFOImg" src="https://github.com/user-attachments/assets/44751c39-fd2e-4ed8-b3f5-47380a1ecaf9" />
 
 ---
 
 
-## 🛠️ Key Features I Programmed
+## 🚀 About This Project
 
-* **Tower Logic:** Programmed the ability to  place, and upgrade cannons, each with different range and damage.
-* **Enemy AI:** Used unity waypoint  randomly   for  enemy movement.
-* **Resource System:** Wrote the C# scripts for managing placing cannons, earning gold from kills.
-* **UI Management:** Coded the health bar for the cannon and  tank, the player's coin display, and the "Game Over" screen.
+UFO Lander is a challenging  game inspired by classic "Lunar Lander" games. The primary goal is to master Unity's  physics engine (Rigidbody) to create a satisfying and responsive feel for the ship.
 
----
+The player must fight against gravity. Landing too fast, at the wrong angle will cause the ship to crash. This project demonstrates my ability to manage physics, handle complex game states (playing, won, lost), and build a complete game loop.
 
-## 💻 Built With
 
-* **Engine:** Unity
-* **Language:** C#
-* **Tools:** Visual Studio, Wwise
+### Click to Watch Gameplay
+
+https://youtu.be/EMUw35hZ-mY?si=8E_gAWQbLjVFrvJc
+
+
+## ✨ Key Features
+
+* **Realistic Physics-Based Controls:** Uses Unity's Rigidbody to simulate gravity, thrust, and rotation.
+* **Precise Collision Detection:** The game can tell the difference between a safe landing (correct speed and angle on a flat pad) and a crash.
+* **Dynamic UI:** The UI updates in real-time to show fuel, altitude, and velocity.
+* **Particle Effects:** Custom particle systems for the main thruster, side thrusters, and explosion on crash.
+* **Game State Management:** A clean system for handling game states like "Playing," "Level Complete," and "Crashed."
+
+## 🛠️ Technologies Used
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## 🎮 Controls
+
+* **Engage Main Thruster:** [Press W]
+* **Rotate Left:** [Press A]
+* **Rotate Right:** [Press D]
+
+*(Make sure to update the controls above to match your game!)*
