@@ -3,8 +3,8 @@
 A 3D physics-based game built in Unity where the player must carefully pilot a UFO to a safe landing on challenging landing pads.
 
 ---
+[![Watch the Gameplay Video](<img width="2816" height="1536" alt="UFOImg" src="https://github.com/user-attachments/assets/44751c39-fd2e-4ed8-b3f5-47380a1ecaf9" />) 
 
-<img width="2816" height="1536" alt="UFOImg" src="https://github.com/user-attachments/assets/44751c39-fd2e-4ed8-b3f5-47380a1ecaf9" />
 
 ---
 
