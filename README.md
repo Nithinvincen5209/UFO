@@ -1,17 +1,17 @@
 # Project 2: UFO Lander (Physics Game)
 
-A 3D physics-based game built in Unity where the player must carefully pilot a UFO to a safe landing on challenging landing pads.
+A physics-based game built in Unity where the player must carefully pilot a UFO to a safe landing on challenging landing pads.
 
 ---
-[![Watch the Gameplay Video](<img width="2816" height="1536" alt="UFOImg" src="https://github.com/user-attachments/assets/44751c39-fd2e-4ed8-b3f5-47380a1ecaf9" />) 
 
+<img width="2816" height="1536" alt="UFOImg" src="https://github.com/user-attachments/assets/7d054cec-608d-49c9-93ed-10a2da52d7f4" />
 
 ---
 
 
 ## 🚀 About This Project
 
-UFO Lander is a challenging  game inspired by classic "Lunar Lander" games. The primary goal is to master Unity's  physics engine (Rigidbody) to create a satisfying and responsive feel for the ship.
+UFO Lander is a challenging  game. The primary goal is to master Unity's  physics engine (Rigidbody) to create a satisfying and responsive feel for the ship.
 
 The player must fight against gravity. Landing too fast, at the wrong angle will cause the ship to crash. This project demonstrates my ability to manage physics, handle complex game states (playing, won, lost), and build a complete game loop.
 
@@ -31,13 +31,4 @@ https://youtu.be/EMUw35hZ-mY?si=8E_gAWQbLjVFrvJc
 
 ## 🛠️ Technologies Used
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🎮 Controls
-
-* **Engage Main Thruster:** [Press W]
-* **Rotate Left:** [Press A]
-* **Rotate Right:** [Press D]
-
-*(Make sure to update the controls above to match your game!)*
