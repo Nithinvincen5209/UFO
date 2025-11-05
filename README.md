@@ -25,10 +25,15 @@ https://youtu.be/EMUw35hZ-mY?si=8E_gAWQbLjVFrvJc
 
 * **Realistic Physics-Based Controls:** Uses Unity's Rigidbody to simulate gravity, thrust, and rotation.
 * **Precise Collision Detection:** The game can tell the difference between a safe landing (correct speed and angle on a flat pad) and a crash.
-* **Dynamic UI:** The UI updates in real-time to show fuel, altitude, and velocity.
 * **Particle Effects:** Custom particle systems for the main thruster, side thrusters, and explosion on crash.
 * **Game State Management:** A clean system for handling game states like "Playing," "Level Complete," and "Crashed."
 
 ## 🛠️ Technologies Used
 
 
+
+## 💻 Built With
+
+* **Engine:** Unity
+* **Language:** C#
+* **Tools:** Visual Studio, Wwise
