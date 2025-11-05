@@ -18,7 +18,7 @@ The player must fight against gravity. Landing too fast, at the wrong angle will
 
 ### Click to Watch Gameplay
 
-[![Watch the Gameplay Video](httpshttps://img.youtube.com/vi/EMUw35hZ-mY/maxresdefault.jpg)](https://www.youtube.com/watch?v=EMUw35hZ-mY)
+[![Watch the Gameplay Video](https://img.youtube.com/vi/EMUw35hZ-mY/hqdefault.jpg)](https://www.youtube.com/watch?v=EMUw35hZ-mY)
 
 
 ## ✨ Key Features
