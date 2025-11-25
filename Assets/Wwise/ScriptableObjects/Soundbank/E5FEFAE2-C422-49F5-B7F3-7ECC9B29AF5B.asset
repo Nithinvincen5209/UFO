@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a16857a6b45d5f04297eb2c9a5add74a, type: 3}
+  m_Name: E5FEFAE2-C422-49F5-B7F3-7ECC9B29AF5B
+  m_EditorClassIdentifier: 
+  objectName: UFOBANK
+  id: 2078767085
+  guid: E5FEFAE2-C422-49F5-B7F3-7ECC9B29AF5B
